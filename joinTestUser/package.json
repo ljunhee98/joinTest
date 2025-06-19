@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "joinTestUser.js",
+  "type": "module",
+  "scripts": {
+    "start": "node joinTestUser.js"
+  },
+  "dependencies": {
+    "puppeteer": "latest"
+  }
+} 

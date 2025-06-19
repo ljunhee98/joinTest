@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "joinTestServer.js",
+  "type": "module",
+  "scripts": {
+    "start": "node joinTestServer.js"
+  },
+  "dependencies": {}
+} 
